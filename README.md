@@ -8,11 +8,9 @@
 
 ### Github Usage ~ Status
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpratp983&show_icons=true&locale=en&layout=compact" alt="yashpratp983" /></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpratp983&show_icons=true&locale=en" alt="yashpratp983" /></p>
 
+
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashpratp983&theme=dark&show_icons=true)
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
