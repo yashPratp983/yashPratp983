@@ -9,7 +9,8 @@
 ### Github Usage ~ Status
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpratp983&show_icons=true&locale=en&layout=compact" alt="yashpratp983" /></p>
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpratp983&show_icons=true&locale=en" alt="yashpratp983" /></p>
 
 ### 🛠 &nbsp;Tech Stack
