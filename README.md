@@ -2,7 +2,7 @@
 
 - 👋 &nbsp;Hi, I’m Yash Pratap Singh.
 - 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Jabalpur.
-- 👀 &nbsp;I enjoy doing Web development.
+- 👀 &nbsp;I enjoy doing Web development and data science.
 - 🌱 &nbsp;I’m currently exploring and learning new techologies.
 
 
